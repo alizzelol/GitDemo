@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("Tag", "Esto es una prueba")
         Log.d("Tag", "Esto es una prueba")
         Log.d("Tag", "Esto es una prueba")
-        Log.d("Tag", "Esto es una prueba")
+        Log.d("Tag", "Esto es un test")
 
 
 
